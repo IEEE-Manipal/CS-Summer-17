@@ -10,10 +10,10 @@ Focus Technologies:
 4) mySQL
 
 Proposed Projects - 
-1) *Quiz Portal : *
+1) Quiz Portal : 
 The online quiz portal will consist of a user registration page. After valid login, user can choose a domain to play the MCQ and time-based quiz. Questions and multiple-options from that domain are fetched from the Database and displayed to the user. Other features like a live scoreboard, a leaderboard, user-history etc can be incorporated.
 
-2) *Hospital Management System : *
+2) Hospital Management System : 
 The system has 3 types of users - Patient, Doctor, Admin.
 It consists of a registration page for patients and a login for all users.
 
